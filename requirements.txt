@@ -1,0 +1,1 @@
+# UsagePeek — Python 3.10+, tkinter + sqlite3 (stdlib)
